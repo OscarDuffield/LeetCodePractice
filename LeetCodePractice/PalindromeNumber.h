@@ -1,5 +1,11 @@
 #pragma once
 #include <string>
+#include <iostream>;
+
+using std::cout;
+using std::cin;
+
+
 
 class Solution
 {

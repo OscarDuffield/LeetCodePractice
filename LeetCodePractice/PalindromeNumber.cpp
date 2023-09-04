@@ -1,10 +1,4 @@
-#include <iostream>;
-#include <string>;
-
 #include "PalindromeNumber.h"
-
-using std::cout;
-using std::cin;
 
 Solution::Solution()
 {
@@ -17,6 +11,7 @@ Solution::~Solution()
 
 void Solution::StartPalindromeNumber()
 {
+    system("cls");
     cout << "What number would you like to detect as a palindrome: " << std::endl;
     cin >> UserInputString;
     

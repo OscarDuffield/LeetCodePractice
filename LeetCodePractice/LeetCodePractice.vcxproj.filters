@@ -24,9 +24,15 @@
     <ClCompile Include="PalindromeNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BestTimeToBuyAndSellStock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PalindromeNumber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BestTimeToBuyAndSellStock.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

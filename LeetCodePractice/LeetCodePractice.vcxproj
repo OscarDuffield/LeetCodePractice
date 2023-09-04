@@ -127,11 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BestTimeToBuyAndSellStock.cpp" />
     <ClCompile Include="LeetCodePractice.cpp" />
     <ClCompile Include="NumberPalindrome.cpp" />
     <ClCompile Include="PalindromeNumber.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BestTimeToBuyAndSellStock.h" />
     <ClInclude Include="PalindromeNumber.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
